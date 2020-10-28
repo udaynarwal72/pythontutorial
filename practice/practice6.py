@@ -1,3 +1,5 @@
-list1 = ["Uday",1,3, 4,2,32,32,34,77]
-print(type(list1))
-print(list1)
+n=18
+# no. of guesses left
+# no. of guesses he took
+# no. of guesse he took
+# game over
