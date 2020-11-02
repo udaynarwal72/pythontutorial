@@ -1,5 +1,11 @@
-f = open("uday.txt")
-content = f.read()
-print(content)
+a=input("Enter your name")
 
-f.close()
+def function(b):
+    """
+    This is function for finding average
+    """
+    s = ("Your name is "b)
+    return s  
+c = function(a)
+print(c)
+print(function.__doc__)
