@@ -1,5 +1,5 @@
 rows = int(input("Enter the no. of rows: "))
-b= bool(int(input("Enter the no.1 or 0: ")))
+b= bool(input("Enter the no.1 or 0: "))
 # b=bool(c)
 
 if b == True:
