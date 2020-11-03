@@ -1,5 +1,10 @@
-a=input("Enter your name")
-b=input("Enter your password")
-c= a+".txt"
-with open(c,"a") as f:
-    f.write("uday sing")
+import tkinter as tk
+from tkinter import filedialog, Text 
+import os
+
+root = tk.Tk()
+canvas= tk.Canvas(root, height=700,width=700, bg="#263D42")
+canvas.pack()
+
+
+root.mainloop()
