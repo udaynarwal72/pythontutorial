@@ -85,7 +85,7 @@ k = int(input("""Enter
               """))
 c = int(input("""Enter 
             (1) for Exercise 
-            (2) for diet\n
+            (2) for diet \n
             """))
 
 
