@@ -52,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.lambda">
+  <component name="RunManager" selected="Python.practice8special">
     <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythontutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
