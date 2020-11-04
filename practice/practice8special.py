@@ -88,7 +88,6 @@ c = int(input("""Enter
             (2) for diet \n
             """))
 
-
 if a == 1:
     take(k)
 elif a == 2:
