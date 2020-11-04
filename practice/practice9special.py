@@ -21,7 +21,7 @@ while (i <= 10):
     Enter w for Water
     Enter g for Gun""")
 
-    user_choice = input("Enter your choice: ")
+    user_choice = input("Enter ysour choice: ")
     choice_game_list = random.choice(game_list)
     if choice_game_list == user_choice:
         print(winner("no one"))
