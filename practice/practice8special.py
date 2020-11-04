@@ -6,7 +6,7 @@ def getdate():
 date = str(getdate())
 
 
-id1 = input("Enter your name")
+id1 = input("Enter your id")
 pass1 = input("Enter your pass")
 
 
